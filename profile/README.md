@@ -73,10 +73,55 @@
 
 ---
 
+## 실행화면
+
+<table>
+  <tr>
+    <th width="360px">투두 생성</th>
+    <th width="360px">투두 수정</th>
+    <th width="360px">투두 삭제</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/77221144-85c0-4011-9199-8cc334128fd2" alt="투두 생성" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/323c35f4-22f2-4cee-b44a-4e3c9eab7a4a" alt="투두 수정">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/db23341e-b4f8-493d-85b2-4e83f4e14280" alt="투두 삭제">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th width="360px">멤버별 투두 조회</th>
+    <th width="360px">멤버 초대</th>
+    <th width="360px">멤버 강퇴</th>
+    <th width="360px">리더 변경</th>
+  </tr>
+  <tr>
+        <td>
+    <img src="https://github.com/user-attachments/assets/1929de92-ac50-44ed-a6b5-2a3012303548" alt="스쿼드 멤버별 투두 조회" >
+    </td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/780d45e4-3019-45ab-9071-c2b001b474a7" alt="멤버 초대">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ff4c8f17-951a-49f1-967e-e91500138a2e" alt="멤버 강퇴">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9637dd50-c992-45dd-862e-c59772af8c25" alt="리더 변경">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 개발
 
 | 프로필                                             | 이름      | 역할           | GitHub                         |
 |----------------------------------------------------------|-----------|----------------|----------------------------------------|
 | <img src="https://github.com/k-jeonghee.png" width="50"> | 김정희     | FrontEnd | [FE Repository](https://github.com/Eggmeoni-na/scrumble-FE) |
 | <img src="https://github.com/kimzoo2.png" width="50"> | 김주희     | BackEnd  | [BE Repository](https://github.com/Eggmeoni-na/scrumble-BE) |
-
